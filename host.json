@@ -1,0 +1,7 @@
+{
+  "hosts": [
+    {"id": 1, "name": "Host1", "ip": "192"},
+    {"id": 2, "name": "Host2", "ip": "192"},
+    {"id": 3, "name": "Host3", "ip": "192"}
+  ]
+}
